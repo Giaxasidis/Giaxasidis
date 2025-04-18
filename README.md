@@ -1,18 +1,17 @@
 ## 💫 About Me
 🚀 Building scalable Discord bots with advanced dashboards and modular architecture.  
-🧠 Expanding expertise in advanced JavaScript and Lua.  
+💻 Expanding expertise in advanced JavaScript and Lua.  
 🎯 Focused on clean code, system efficiency, and forward-thinking development.  
-📬 Contact: [Discord](https://discord.gg/5YnghPaW5R)
 
 ---
 
-## 🌐 Socials
+## 🌐 Social Media
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordlookup.com/user/1069279857072160921)
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Technical Proficiency
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
