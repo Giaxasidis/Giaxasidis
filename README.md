@@ -1,5 +1,4 @@
 ## 💫 About Me
-
 🚀 Building scalable Discord bots with advanced dashboards and modular architecture.  
 🧠 Expanding expertise in advanced JavaScript and Lua.  
 🎯 Focused on clean code, system efficiency, and forward-thinking development.  
