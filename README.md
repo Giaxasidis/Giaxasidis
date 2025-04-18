@@ -1,11 +1,9 @@
-# 💫 About Me
+## 💫 About Me
 
-💻 Currently working on: Enhancing my Discord bot with a full-featured dashboard and exploring modern web design aesthetics.  
-📚 Currently learning: Advanced JavaScript and Playwright for browser automation and testing.  
-💬 Ask me about: Discord.js, JavaScript, and front-end design principles.  
-📫 Reach me on: [Discord](https://discord.gg/5YnghPaW5R)  
-
----
+🔧 **Current Focus**: Developing a production-grade Discord bot ecosystem featuring an intuitive dashboard UI, modular architecture, and scalable infrastructure.  
+🧠 **Ongoing Studies**: Mastering advanced JavaScript patterns and integrating Playwright for end-to-end automation and testing workflows.  
+🗣 **Let’s Talk Tech**: Passionate about real-time systems, Discord.js development, and crafting seamless front-end user experiences.  
+📬 **Connect With Me**: [Join me on Discord](https://discord.gg/5YnghPaW5R) for collaborations, consulting, or just a tech chat.
 
 ## 🌐 Socials
 
