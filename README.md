@@ -1,16 +1,37 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**KaloudasDev/KaloudasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently working on: Enhancing my Discord bot with a full-featured dashboard and exploring modern web design aesthetics.  
+📚 Currently learning: Advanced JavaScript and Playwright for browser automation and testing.  
+💬 Ask me about: Discord.js, JavaScript, and front-end design principles.  
+📫 Reach me on: [Discord](https://discord.gg/5YnghPaW5R)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordlookup.com/user/1069279857072160921)
+
+---
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+## 📊 GitHub Stats
+
+<h2 align="center">📈 My GitHub Stats</h2>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaloudasDev&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
