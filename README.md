@@ -22,9 +22,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaloudasDev&theme=vue-dark&hide_border=true" alt="KaloudasDev's Streak" />
-</p>
-<p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
