@@ -27,5 +27,5 @@
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
----
+
 
