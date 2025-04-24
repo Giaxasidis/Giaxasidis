@@ -22,9 +22,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img width="50%" src="https://cdn.discordapp.com/attachments/1364854703158198354/1364917864804519956/image.png?ex=680b6a51&is=680a18d1&hm=22c9ad7a7a24350f7e43070d968206b4c659b54531f88478141ddb88e02430d6&" alt="Top Languages" />
-</p>
-<p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
