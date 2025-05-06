@@ -18,12 +18,10 @@
 
 ---
 <h2 align="center">Stats</h2>
-<hr>
 <div
     align="center">
         <img src="https://lanyard.cnrad.dev/api/1069279857072160921" />
 </div>
-<hr>
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
