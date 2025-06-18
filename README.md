@@ -9,7 +9,6 @@
 ![Lua](https://img.shields.io/badge/Lua-%23007ACC.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2 align="center">Stats</h2>
 <p align="center">
