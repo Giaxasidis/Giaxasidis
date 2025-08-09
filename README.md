@@ -1,9 +1,10 @@
-## 💫 About Me
-🚀 Building scalable Discord bots with advanced dashboards and modular architecture.  
-💻 Expanding expertise in advanced JavaScript and Lua.  
-🎯 Focused on clean code, system efficiency, and forward-thinking development.  
+## About Me
+🚀 Developing scalable Discord bots with advanced dashboards and modular architecture.
+💻 Experienced in JavaScript, Lua, and SQL, with a strong focus on system efficiency and maintainable code.
+🎯 Skilled FiveM developer, delivering optimized server-side and client-side solutions.
+🔍 Committed to clean architecture, performance optimization, and forward-thinking development practices.
 
-## 🧠 Technical Proficiency
+## Technical Proficiency
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/Lua-%23007ACC.svg?style=for-the-badge&logo=lua&logoColor=white)
