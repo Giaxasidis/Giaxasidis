@@ -9,6 +9,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%23007ACC.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <h2 align="center">Stats</h2>
 <p align="center">
