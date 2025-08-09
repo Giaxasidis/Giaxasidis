@@ -1,8 +1,8 @@
 ## About Me
-🚀 Developing scalable Discord bots with advanced dashboards and modular architecture.  
-💻 Experienced in JavaScript, Lua, and SQL, with a strong focus on system efficiency and maintainable code.  
-🎯 Skilled FiveM developer, delivering optimized server-side and client-side solutions.  
-🔍 Committed to clean architecture, performance optimization, and forward-thinking development practices.  
+🚀 Developing **scalable Discord bots** with **advanced dashboards** and **modular architecture**.  
+💻 Experienced in **JavaScript**, **Lua**, and **SQL**, with a strong focus on **system efficiency** and **maintainable code**.  
+🎯 Skilled **FiveM developer**, delivering optimized **server-side** and **client-side** solutions.  
+🔍 Committed to **clean architecture**, **performance optimization**, and **forward-thinking** development practices.  
 
 ## Technical Proficiency
 
