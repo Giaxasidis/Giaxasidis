@@ -18,9 +18,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # GitHub Stats
-![KaloudasDev's Stats](https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![KaloudasDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaloudasDev&theme=nord&hide_border=true)
-![KaloudasDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&layout=compact)<br>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="KaloudasDev's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaloudasDev&theme=nord&hide_border=true" alt="KaloudasDev's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="KaloudasDev's Top Languages" />
+</div>
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
