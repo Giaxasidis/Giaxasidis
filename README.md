@@ -12,6 +12,9 @@
   <a href="https://linktr.ee/kaloudas" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Linktree-1DAE1A?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
+<h2 align="center" style="font-size: 2.2rem;">Profile Views</h2>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KaloudasDev.KaloudasDev" alt="Profile Views" />
 </p>
 
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
