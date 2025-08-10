@@ -15,17 +15,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <hr>
-<div
-    align="center">
-        <img src="https://lanyard.cnrad.dev/api/1069279857072160921?hideDecoration=true&hideSpotify=true&hideTag=true" />
+<div align="center">
+    <img src="https://lanyard.cnrad.dev/api/1069279857072160921?hideDecoration=true&hideSpotify=true&hideTag=true" />
 </div>
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="320" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="320" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=KaloudasDev&theme=dark&hide_border=true" width="320" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="320" />
+</div>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=KaloudasDev&theme=dark&hide_border=true" width="320" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="320" />
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
