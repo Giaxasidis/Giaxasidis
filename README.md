@@ -14,17 +14,9 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<hr>
-<div align="center">
-    <img src="https://lanyard.cnrad.dev/api/1069279857072160921?hideDecoration=true&hideSpotify=true&hideTag=true" />
-</div>
-<hr>
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="320" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=KaloudasDev&theme=dark&hide_border=true" width="320" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="320" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KaloudasDev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## GitHub Trophies
