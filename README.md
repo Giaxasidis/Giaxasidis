@@ -15,10 +15,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KaloudasDev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# GitHub Stats
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="320" style="margin-bottom: 10px;" />
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KaloudasDev&theme=dark&hide_border=true" width="320" style="margin-bottom: 10px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="320" />
+
+</div>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
