@@ -19,15 +19,15 @@
 
 # GitHub Stats
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="KaloudasDev's Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="KaloudasDev's Stats" />
 </p>
 
 <p align="center">
-  <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=KaloudasDev&theme=nord&hide_border=true" alt="KaloudasDev's Streak" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KaloudasDev&theme=nord&hide_border=true" alt="KaloudasDev's Streak" />
 </p>
 
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="KaloudasDev's Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="KaloudasDev's Top Languages" />
 </p>
 
 ## GitHub Trophies
