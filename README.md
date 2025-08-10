@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 </p>
 
-<h2 align="center" style="font-size: 2.2rem;">Discord Stats</h2>
-
-<p align="center">
-  <img width="400" src="https://lanyard.cnrad.dev/api/1069279857072160921?bg=2e3440&hideTag=true&hideSpotify=true&hideTimestamp=true&hideDecoration=true&animatedDecoration=false&hideBadges=true" alt="Discord Lanyard Status" />
-</p>
-
 <h2 align="center" style="font-size: 2.2rem;">GitHub Stats</h2>
 
 <p align="center">
