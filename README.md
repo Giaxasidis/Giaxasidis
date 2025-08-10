@@ -14,6 +14,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+# GitHub Stats
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="320" />
