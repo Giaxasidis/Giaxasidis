@@ -21,8 +21,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="320" style="margin-bottom: 10px;" />
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KaloudasDev&theme=dark&hide_border=true" width="320" style="margin-bottom: 10px;" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="320" />
 
 </div>
