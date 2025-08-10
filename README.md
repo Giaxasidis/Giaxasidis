@@ -1,8 +1,8 @@
 # About Me
 🚀 Developing **scalable Discord bots** with **advanced dashboards** and **modular architecture**.
-💻 Experienced in **JavaScript**, **Lua**, and **SQL**, with a strong focus on **system efficiency** and **maintainable code**.
-🎯 Skilled **FiveM developer**, delivering optimized **server-side** and **client-side** solutions.
-🔍 Committed to **clean architecture**, **performance optimization**, and **forward-thinking** development practices.
+<br>💻 Experienced in **JavaScript**, **Lua**, and **SQL**, with a strong focus on **system efficiency** and **maintainable code**.
+<br>🎯 Skilled **FiveM developer**, delivering optimized **server-side** and **client-side** solutions.
+<br>🔍 Committed to **clean architecture**, **performance optimization**, and **forward-thinking** development practices.
 
 # Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
