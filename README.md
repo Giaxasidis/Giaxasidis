@@ -14,6 +14,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<hr>
 <div
     align="center">
         <img src="https://lanyard.cnrad.dev/api/1069279857072160921?hideDecoration=true&hideSpotify=true&hideTag=true" />
@@ -30,6 +31,3 @@
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=KaloudasDev&icon=0&color=0)](https://visitcount.itsvg.in)
