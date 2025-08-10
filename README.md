@@ -5,6 +5,7 @@
 🔍 Committed to <strong>clean architecture</strong>, <strong>performance optimization</strong>, and <strong>forward-thinking</strong> development practices.
 
 <h1 align="center">Tech Stack</h1>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
