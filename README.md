@@ -21,7 +21,7 @@
 <h1 align="center">Discord Stats</h1>
 
 <p align="center">
-  <img width="400" src="https://lanyard.cnrad.dev/api/1069279857072160921?hideSpotify=true&hideTag=true&hideStatus=true&hideDecoration=true&hideActivity=true" alt="Discord Lanyard Status" />
+  <img width="400" src="https://lanyard.cnrad.dev/api/1069279857072160921?bg=2e3440&hideTag=true&hideSpotify=true&hideTimestamp=true&hideDecoration=true&animatedDecoration=false" alt="Discord Lanyard Status" />
 </p>
 
 <h1 align="center">GitHub Stats</h1>
