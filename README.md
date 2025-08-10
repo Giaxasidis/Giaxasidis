@@ -4,6 +4,16 @@
 💻 Experienced in <strong>JavaScript</strong>, <strong>Lua</strong>, and <strong>SQL</strong>, with a strong focus on <strong>system efficiency</strong> and <strong>maintainable code</strong>.<br>
 🔍 Committed to <strong>clean architecture</strong>, <strong>performance optimization</strong>, and <strong>forward-thinking</strong> development practices.
 
+<h2 align="center" style="font-size: 2.2rem;">Social Media</h2>
+<p align="center">
+  <a href="https://linktr.ee/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linktree-1DAE1A?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="https://discord.gg/yourdiscord" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
 
 <p align="center">
@@ -39,9 +49,4 @@
 <h2 align="center" style="font-size: 2.2rem;">GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<h2 align="center" style="font-size: 2.2rem;">Profile Views</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaloudasDev&style=flat-square&color=blue" alt="Profile Views" />
 </p>
