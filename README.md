@@ -1,10 +1,10 @@
-# About Me
-🚀 Developing **scalable Discord bots** with **advanced dashboards** and **modular architecture**.
-<br>💻 Experienced in **JavaScript**, **Lua**, and **SQL**, with a strong focus on **system efficiency** and **maintainable code**.
-<br>🎯 Skilled **FiveM developer**, delivering optimized **server-side** and **client-side** solutions.
-<br>🔍 Committed to **clean architecture**, **performance optimization**, and **forward-thinking** development practices.
+<h1 align="center">About Me</h1>
+🚀 Developing <strong>scalable Discord bots</strong> with <strong>advanced dashboards</strong> and <strong>modular architecture</strong>.<br>
+💻 Experienced in <strong>JavaScript</strong>, <strong>Lua</strong>, and <strong>SQL</strong>, with a strong focus on <strong>system efficiency</strong> and <strong>maintainable code</strong>.<br>
+🎯 Skilled <strong>FiveM developer</strong>, delivering optimized <strong>server-side</strong> and <strong>client-side</strong> solutions.<br>
+🔍 Committed to <strong>clean architecture</strong>, <strong>performance optimization</strong>, and <strong>forward-thinking</strong> development practices.
 
-# Tech Stack
+<h1 align="center">Tech Stack</h1>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -21,7 +21,7 @@
   <img width="400" src="https://lanyard.cnrad.dev/api/1069279857072160921?hideSpotify=true&hideTag=true&hideStatus=true&hideDecoration=true&hideActivity=true" alt="Discord Lanyard Status" />
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h1 align="center">GitHub Stats</h1>
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="KaloudasDev's Stats" />
@@ -35,6 +35,7 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="KaloudasDev's Top Languages" />
 </p>
 
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<h2 align="center">GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
