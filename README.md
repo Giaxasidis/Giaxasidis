@@ -6,7 +6,7 @@
 
 <div
     align="center">
-        <img src="https://lanyard.cnrad.dev/api/1069279857072160921?hideDecoration=true&hideTag=true&hideSpotify=true" />
+        <img src="https://lanyard.cnrad.dev/api/1069279857072160921?hideDecoration=true&hideSpotify=true&hideTag=true" />
 </div>
 <hr>
 
