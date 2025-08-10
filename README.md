@@ -40,5 +40,5 @@
 
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
