@@ -17,7 +17,12 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# GitHub Stats
+<p align="center">
+  <img width="400" src="https://lanyard.cnrad.dev/api/1069279857072160921?hideSpotify=true&hideTag=true&hideStatus=true&hideDecoration=true&hideActivity=true" alt="Discord Lanyard Status" />
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="KaloudasDev's Stats" />
 </p>
@@ -29,6 +34,7 @@
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="KaloudasDev's Top Languages" />
 </p>
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
