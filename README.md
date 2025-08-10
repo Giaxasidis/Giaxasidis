@@ -18,6 +18,8 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<h1 align="center">Discord Stats</h1>
+
 <p align="center">
   <img width="400" src="https://lanyard.cnrad.dev/api/1069279857072160921?hideSpotify=true&hideTag=true&hideStatus=true&hideDecoration=true&hideActivity=true" alt="Discord Lanyard Status" />
 </p>
