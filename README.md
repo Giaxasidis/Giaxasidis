@@ -8,10 +8,12 @@
 <p align="center">
   <a href="https://linktr.ee/kaloudas" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Linktree-1DAE1A?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a><a href="https://discord.gg/wealthyhosting" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  </a>
+  <a href="https://discord.gg/wealthyhosting" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-left: 8px;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+
 
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
 
