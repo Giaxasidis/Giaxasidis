@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/0yc2k3x.png" alt="Profile Banner" width="100%" />
-</p>
-
-<h2 align="center" style="font-size: 2.2rem;">About Me</h2>
-
-🎯 New Skilled <strong>FiveM developer</strong>, delivering optimized <strong>server-side</strong> and <strong>client-side</strong> solutions.<br>
-🚀 Developing <strong>scalable Discord bots</strong> with <strong>advanced dashboards</strong> and <strong>modular architecture</strong>.<br>
-💻 Experienced in <strong>JavaScript</strong> and <strong>Lua</strong> with a strong focus on <strong>system efficiency</strong> and <strong>maintainable code</strong>.<br>
-🔍 Committed to <strong>clean architecture</strong>, <strong>performance optimization</strong>, and <strong>forward-thinking</strong> development practices.
-
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
 
 <p align="center">
