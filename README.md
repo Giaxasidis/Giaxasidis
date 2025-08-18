@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="center">Hi, I'm Kaloudas</h2>
 
 <p align="center">
   Building scalable <strong>Discord Bots</strong> with modular dashboards.<br>
