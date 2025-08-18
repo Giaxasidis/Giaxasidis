@@ -1,11 +1,3 @@
-# Hi, I'm Kaloudas 👋
-Building scalable **Discord Bots** with modular dashboards.  
-Experienced in **JavaScript** and **Lua**, focused on clean, maintainable code.  
-Skilled **FiveM Developer**, creating efficient server-side and client-side solutions.  
-Dedicated to performance, clean architecture, and forward-thinking development.
-
-
-
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
 
 <p align="center">
