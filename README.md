@@ -1,10 +1,11 @@
 <h2 align="center">About Me</h2>
 
-<h4 align="center">🎯 <strong>New Skilled FiveM developer</strong>, delivering optimized server-side and client-side solutions.</h4>
-<h4 align="center">🚀 <strong>Developing scalable Discord bots</strong> with advanced dashboards and modular architecture.</h4>
-<h4 align="center">💻 <strong>Experienced in JavaScript and Lua</strong> with a strong focus on system efficiency and maintainable code.</h4>
-<h4 align="center">🔍 <strong>Committed to clean architecture, performance optimization, and forward-thinking development practices</strong>.</h4>
-
+<p align="center">
+  New Skilled <strong>FiveM developer</strong>, delivering optimized server-side and client-side solutions.<br>
+  Developing scalable <strong>Discord bots</strong> with advanced dashboards and modular architecture.<br>
+  Experienced in <strong>JavaScript</strong> and <strong>Lua</strong> with a strong focus on system efficiency and maintainable code.<br>
+  Committed to clean architecture, performance optimization, and forward-thinking development practices.
+</p>
 
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
 
