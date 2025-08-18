@@ -1,9 +1,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Building scalable <strong>Discord bots</strong> with modular dashboards.<br>
+  Building scalable <strong>Discord Bots</strong> with modular dashboards.<br>
   Experienced in <strong>JavaScript</strong> and <strong>Lua</strong>, focused on clean, maintainable code.<br>
-  Skilled <strong>FiveM developer</strong>, creating efficient server-side and client-side solutions.<br>
+  Skilled <strong>FiveM Developer</strong>, creating efficient server-side and client-side solutions.<br>
   Dedicated to performance, clean architecture, and forward-thinking development.
 </p>
 
