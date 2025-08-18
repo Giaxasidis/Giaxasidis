@@ -1,4 +1,4 @@
-<h2 align="center" style="font-size: 2.2rem;">About Me</h2>
+<h2 align="center" style="font-size: 2.5rem;">About Me</h2>
 
 <div align="center">
   New Skilled <strong>FiveM developer</strong>, delivering optimized <strong>server-side</strong> and <strong>client-side</strong> solutions.<br>
