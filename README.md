@@ -1,10 +1,10 @@
 <h2 align="center" style="font-size: 2.2rem;">About Me</h2>
 
 <div style="text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 20px;">
-    🎯 New Skilled <strong>FiveM developer</strong>, delivering optimized <strong>server-side</strong> and <strong>client-side</strong> solutions.<br>
-    🚀 Developing <strong>scalable Discord bots</strong> with <strong>advanced dashboards</strong> and <strong>modular architecture</strong>.<br>
-    💻 Experienced in <strong>JavaScript</strong> and <strong>Lua</strong> with a strong focus on <strong>system efficiency</strong> and <strong>maintainable code</strong>.<br>
-    🔍 Committed to <strong>clean architecture</strong>, <strong>performance optimization</strong>, and <strong>forward-thinking</strong> development practices.
+    🎯 Skilled <strong>FiveM Developer</strong>, delivering optimized <strong>server</strong> and <strong>client solutions</strong>.<br>
+    🚀 Building <strong>scalable Discord bots</strong> with <strong>dashboards</strong> and <strong>modular architecture</strong>.<br>
+    💻 Proficient in <strong>JavaScript</strong> and <strong>Lua</strong>, focused on <strong>efficiency</strong> and <strong>maintainable code</strong>.<br>
+    🔍 Dedicated to <strong>clean architecture</strong>, <strong>performance</strong>, and <strong>future-ready practices</strong>.
 </div>
 
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
