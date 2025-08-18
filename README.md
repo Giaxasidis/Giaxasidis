@@ -1,11 +1,10 @@
-<p style="margin: 0;">
-  <span style="font-size: 3em; font-weight: bold;">Hi, I'm Kaloudas 👋</span>
-  <br>
-  Building scalable <strong>Discord Bots</strong> with modular dashboards.<br>
-  Experienced in <strong>JavaScript</strong> and <strong>Lua</strong>, focused on clean, maintainable code.<br>
-  Skilled <strong>FiveM Developer</strong>, creating efficient server-side and client-side solutions.<br>
-  Dedicated to performance, clean architecture, and forward-thinking development.
-</p>
+# Hi, I'm Kaloudas 👋
+
+Building scalable **Discord Bots** with modular dashboards.  
+Experienced in **JavaScript** and **Lua**, focused on clean, maintainable code.  
+Skilled **FiveM Developer**, creating efficient server-side and client-side solutions.  
+Dedicated to performance, clean architecture, and forward-thinking development.
+
 
 
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
