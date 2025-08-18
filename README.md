@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/EclCoLM.gif" alt="Profile Banner" width="70%" />
+  <img src="https://i.imgur.com/EclCoLM.gif" alt="Profile Banner" width="50%" />
 </p>
 
 <h2 align="center" style="font-size: 2.2rem;">About Me</h2>
