@@ -1,12 +1,10 @@
-<h2 align="center">Hi, I'm Kaloudas</h2>
-
 <p align="center">
+  <span style="font-size: 2em; font-weight: bold;">Hi, I'm Kaloudas.</span><br>
   Building scalable <strong>Discord Bots</strong> with modular dashboards.<br>
   Experienced in <strong>JavaScript</strong> and <strong>Lua</strong>, focused on clean, maintainable code.<br>
   Skilled <strong>FiveM Developer</strong>, creating efficient server-side and client-side solutions.<br>
   Dedicated to performance, clean architecture, and forward-thinking development.
 </p>
-
 
 <h2 align="center" style="font-size: 2.2rem;">Tech Stack</h2>
 
