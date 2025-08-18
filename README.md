@@ -1,6 +1,6 @@
 <h2 align="center" style="font-size: 2.2rem;">About Me</h2>
 
-<div align="center" style="font-size: 1.4rem;">
+<div align="center" style="font-size: 1.8rem;">
   New Skilled <strong>FiveM developer</strong>, delivering optimized <strong>server-side</strong> and <strong>client-side</strong> solutions.<br>
   Developing <strong>scalable Discord bots</strong> with <strong>advanced dashboards</strong> and <strong>modular architecture</strong>.<br>
   Experienced in <strong>JavaScript</strong> and <strong>Lua</strong> with a strong focus on <strong>system efficiency</strong> and <strong>maintainable code</strong>.<br>
