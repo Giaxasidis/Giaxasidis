@@ -8,7 +8,7 @@
 ## Experience
 
 I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
-My main expertise lies in **FiveM Development** also creating **robust Discord Bots** with modular design.
+My main expertise lies in **FiveM Development** also creating robust *Discord Bots** with nice modular design.
 
 - Full Stack experience, mainly in **JavaScript** and **Lua**
 - Strong focus on **performance**, **code clarity**, and **maintainability**
