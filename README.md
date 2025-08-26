@@ -7,7 +7,7 @@
     🔍 Dedicated to clean architecture, performance, and future-ready practices.
 </div>
 
-<h2 align="center" style="font-size: 2.2rem;">GitHub Stats</h2>
+### GitHub Statistics
 
 <table>
   <tr>
