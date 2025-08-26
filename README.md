@@ -32,13 +32,13 @@ Here are some things I’ve been working on lately:
 
 ### GitHub Statistics
 
-<table>
+<table style="width:100%; border-spacing:0;">
   <tr>
-    <td align="center" style="padding:0; width:50%;">
-      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" style="height:200px; object-fit:contain;" />
+    <td align="center" style="padding:0; margin:0; width:50%;">
+      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" style="height:200px; width:100%; object-fit:cover; display:block;" />
     </td>
-    <td align="center" style="padding:0; width:50%;">
-      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" style="height:200px; object-fit:contain;" />
+    <td align="center" style="padding:0; margin:0; width:50%;">
+      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" style="height:200px; width:100%; object-fit:cover; display:block;" />
     </td>
   </tr>
 </table>
