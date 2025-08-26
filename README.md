@@ -27,8 +27,10 @@
   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloudasDev&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="KaloudasDev's Top Languages" />
 </p>
 
+<!--
 <h2 align="center" style="font-size: 2.2rem;">GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies - KaloudasDev" />
 </p>
+-->
