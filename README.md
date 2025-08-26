@@ -1,12 +1,3 @@
-<h2 align="center" style="font-size: 2.2rem;">About Me</h2>
-
-<div style="text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 20px;">
-    🎯 Skilled <strong>FiveM Developer</strong>, delivering optimized <strong>server</strong> and <strong>client solutions</strong>.<br>
-    🚀 Building scalable <strong>Discord bots</strong> with dashboards and <strong>modular architecture</strong>.<br>
-    💻 Proficient in <strong>JavaScript</strong> and <strong>Lua</strong>, focused on <strong>efficiency</strong> and maintainable code.<br>
-    🔍 Dedicated to clean architecture, performance, and future-ready practices.
-</div>
-
 ### GitHub Statistics
 
 <table>
