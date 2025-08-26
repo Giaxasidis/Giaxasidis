@@ -8,7 +8,7 @@
 ## Experience
 
 I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
-My main expertise lies in **FiveM Development** (both server-side and client-side), as well as creating **robust Discord Bots** with modular design.
+My main expertise lies in **FiveM Development** also creating **robust Discord Bots** with modular design.
 
 - Full Stack experience, mainly in **JavaScript** and **Lua**
 - Strong focus on **performance**, **code clarity**, and **maintainability**
@@ -25,8 +25,8 @@ Feel free to reach out on any of the following platforms:
 
 Here are some things I’ve been working on lately:
 
-- 🛠️ Custom **FiveM scripts** tailored for performance and gameplay quality
-- 🤖 Modular **Discord bots** with dashboards and RESTful backends
+- 🛠️ Custom **FiveM Scripts** tailored for performance and gameplay quality
+- 🤖 Modular **Discord Bots** with dashboards and RESTful backends
 - 🌐 Integration of APIs, **Node.js** services, and frontend interfaces
 - 🚗 Server optimization for large FiveM communities
 
