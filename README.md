@@ -7,7 +7,8 @@
 
 ## Experience
 
-I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms. My main expertise lies in **FiveM development** (both server-side and client-side), as well as creating **robust Discord bots** with web dashboards and modular design.
+I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
+My main expertise lies in **FiveM Development** (both server-side and client-side), as well as creating **robust Discord Bots** with modular design.
 
 - Full Stack experience, mainly in **JavaScript** and **Lua**
 - Strong focus on **performance**, **code clarity**, and **maintainability**
@@ -18,7 +19,7 @@ I'm a passionate, self-taught developer focused on delivering high-quality syste
 Feel free to reach out on any of the following platforms:
 
 - 📧 Email: [`kaloudasdev@gmail.com`](mailto:kaloudasdev@gmail.com)
-- 💬 Discord: [`@yourDiscordTag`](https://discord.com/users/1069279857072160921)
+- 💬 Discord: [`@KaloudasDev`](https://discord.com/users/1069279857072160921)
 
 ## Projects
 
