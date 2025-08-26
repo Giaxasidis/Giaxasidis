@@ -5,7 +5,7 @@
 💻 Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
 🔍 Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
 
-## 📚 Experience
+### Experience
 
 I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms. My main expertise lies in **FiveM development** (both server-side and client-side), as well as creating **robust Discord bots** with web dashboards and modular design.
 
@@ -13,24 +13,14 @@ I'm a passionate, self-taught developer focused on delivering high-quality syste
 - Strong focus on **performance**, **code clarity**, and **maintainability**
 - Constantly learning and improving — always chasing the most **efficient solutions**
 
-### Key Notes ✍️
-
-- Specialized in **FiveM scripting** and **Discord bot development**
-- Focused on **clean code**, **future-proof practices**, and **modular systems**
-- Actively using **JavaScript**, **Lua**, and related modern tooling
-- Team-oriented and open to collaboration
-
-## 📫 How to reach me
+### How to reach me
 
 Feel free to reach out on any of the following platforms:
 
-- 📧 Email: [`youremail@example.com`](mailto:youremail@example.com)
-- 💬 Discord: [`@yourDiscordTag`](https://discord.com/users/yourDiscordID)
-- 💭 Telegram: [`@yourTelegramUsername`](https://t.me/yourTelegramUsername)
+- 📧 Email: [`kaloudasdev@gmail.com`](mailto:kaloudasdev@gmail.com)
+- 💬 Discord: [`@yourDiscordTag`](https://discord.com/users/1069279857072160921)
 
-> Replace with your actual contact info above 👆
-
-## 🔭 Projects
+### Projects
 
 Here are some things I’ve been working on lately:
 
