@@ -5,8 +5,6 @@
 💻 Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
 🔍 Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
 
----
-
 ## 📚 Experience
 
 I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms. My main expertise lies in **FiveM development** (both server-side and client-side), as well as creating **robust Discord bots** with web dashboards and modular design.
@@ -22,8 +20,6 @@ I'm a passionate, self-taught developer focused on delivering high-quality syste
 - Actively using **JavaScript**, **Lua**, and related modern tooling
 - Team-oriented and open to collaboration
 
----
-
 ## 📫 How to reach me
 
 Feel free to reach out on any of the following platforms:
@@ -33,8 +29,6 @@ Feel free to reach out on any of the following platforms:
 - 💭 Telegram: [`@yourTelegramUsername`](https://t.me/yourTelegramUsername)
 
 > Replace with your actual contact info above 👆
-
----
 
 ## 🔭 Projects
 
