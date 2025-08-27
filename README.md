@@ -48,7 +48,3 @@ Technical overview of contributions and code.
     </td>
   </tr>
 </table>
-
-<div align="center" style="margin-top:10px;">
-  <img src="https://github-profile-trophy.vercel.app/?KaloudasDev=ryo-ma&theme=discord" style="max-width: 100%; height: auto;"/>
-</div>
