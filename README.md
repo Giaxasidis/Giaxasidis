@@ -30,8 +30,6 @@ Currently working on:
 - API integrations, **Node.js** services, and frontend interfaces  
 - Server optimization solutions tailored for large FiveM communities  
 
----
-
 ### GitHub Statistics
 
 <table style="width:100%; border-spacing:0;">
