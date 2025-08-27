@@ -1,35 +1,32 @@
-# Hi there, I'm KaloudasDev! 👋
+# Hi, I'm KaloudasDev
 
-- 🎯 Skilled **FiveM Developer**, delivering optimized **server** and **client** solutions.  
-- 🚀 Building scalable **Discord Bots** with dashboards and modular architecture.  
-- 💻 Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
-- 🔍 Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
+I am a dedicated FiveM Developer specializing in delivering optimized server and client solutions. I also build scalable Discord bots featuring dashboards and modular architecture. With strong proficiency in JavaScript and Lua, I emphasize writing efficient, maintainable code. My work is guided by principles of clean architecture, performance, and future-proof design.
 
 ## Experience
 
-I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
-My main expertise lies in **FiveM Development** also creating robust **Discord Bots** with nice modular design.
+I am a self-taught developer with a passion for creating high-quality systems across diverse platforms. My primary focus is on FiveM development and crafting robust Discord bots with modular, maintainable structures.
 
-- Full Stack experience, mainly in **JavaScript** and **Lua**
-- Strong focus on **performance**, **code clarity**, and **maintainability**
-- Constantly learning and improving — always chasing the most **efficient solutions**
+- Full stack experience primarily using **JavaScript** and **Lua**  
+- Strong emphasis on performance, code clarity, and maintainability  
+- Continuously learning and refining skills to deliver efficient and scalable solutions  
 
-## Communicate
+## Contact
 
-Feel free to reach out on any of the following platforms:
+Feel free to reach out via:
 
-- 📧 Email: [`kaloudasdev@gmail.com`](mailto:kaloudasdev@gmail.com)
-- 💬 Discord: [`@KaloudasDev`](https://discord.com/users/1069279857072160921)
+- 📧 Email: [`kaloudasdev@gmail.com`](mailto:kaloudasdev@gmail.com)  
+- 💬 Discord: [`@KaloudasDev`](https://discord.com/users/1069279857072160921)  
 
 ## Projects
 
-Here are some things I’ve been working on lately:
+Currently working on:
 
-- 🛠️ Custom **FiveM Scripts** tailored for performance and gameplay quality.
-- 🤖 Modular **Discord Bots** with dashboards and RESTful backends.
-- 🌐 Integration of APIs, **Node.js** services, and frontend interfaces.
-- 🚗 Server optimization for large FiveM communities.
+- Custom **FiveM scripts** optimized for both performance and gameplay experience  
+- Modular **Discord bots** featuring dashboards and RESTful backends  
+- API integrations, **Node.js** services, and frontend interfaces  
+- Server optimization solutions tailored for large FiveM communities  
 
+---
 
 ### GitHub Statistics
 
