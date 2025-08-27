@@ -38,7 +38,13 @@ Currently engaged in building advanced tools:
 
 Technical overview of contributions and code.
 
-<p align="center" style="margin:0; padding:0;">
-  <img src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" height="200" style="margin:0; padding:0; border:none;" />
-  <img src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" height="200" style="margin:0; padding:0; border:none;" />
-</p>
+<table style="width:100%; border-spacing:0; border-collapse:collapse; background:none;">
+  <tr>
+    <td align="left" style="padding:0; margin:0; background:none; width:50%;">
+      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" style="height:200px; width:100%; object-fit:cover; display:block; margin:0; padding:0; border:none;" />
+    </td>
+    <td align="right" style="padding:0; margin:0; background:none; width:50%;">
+      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" style="height:200px; width:100%; object-fit:cover; display:block; margin:0; padding:0; border:none;" />
+    </td>
+  </tr>
+</table>
