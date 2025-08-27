@@ -27,7 +27,7 @@ Currently working on:
 
 | Project | Description |
 |--------|-------------|
-| **discord-ticket-bot** | Advanced ticketing bot for Discord servers, streamlining support flow and automating responses. |
+| **discord-ticket-bot** | Advanced ticketing bot for Discord servers, streamlining support flow and auto responses. |
 | **fivem-rich-presence** | Seamless Discord integration for FiveM, displaying real-time activity via Discord Rich Presence. |
 | **discord-mcstatus-bot** | Real-time Minecraft server status bot for Discord, reporting uptime, latency, and player count. |
 | **fivem-weather-control** | Dynamic in-game weather and time management control script for FiveM with an intuitive UI menu. |
