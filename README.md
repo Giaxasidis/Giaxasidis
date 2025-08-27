@@ -25,10 +25,14 @@ Feel free to reach out via:
 
 Currently working on:
 
-- Custom **FiveM scripts** optimized for both performance and gameplay experience  
-- Modular **Discord bots** featuring dashboards and RESTful backends  
-- API integrations, **Node.js** services, and frontend interfaces  
-- Server optimization solutions tailored for large FiveM communities  
+| Project | Description |
+|--------|-------------|
+| **fivem-rich-presence** | Seamless Discord integration for FiveM, displaying real-time player activity via Rich Presence. |
+| **fivem-steam-authenticator** | Secure Steam-only authentication system for FiveM, ensuring safe and uninterrupted player access. |
+| **fivem-weather-control** | Dynamic in-game weather and time management script for FiveM with an intuitive UI menu. |
+| **discord-ticket-bot** | Advanced ticketing bot for Discord servers, streamlining support flow and automating responses. |
+| **discord-mcstatus-bot** | Real-time Minecraft server status bot for Discord, reporting uptime, latency, and player count. |
+| **discord-tempvoice-bot** | Automated temporary voice channel system for Discord with role-based permissions and cleanup. |
 
 ### GitHub Statistics
 
