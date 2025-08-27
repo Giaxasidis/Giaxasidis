@@ -31,7 +31,7 @@ Here are some things I’ve been working on lately:
 - 🚗 Server optimization for large FiveM communities
 
 
-### GitHub Statistics
+## GitHub Statistics
 
 <table style="width:100%; border-spacing:0;">
   <tr>
