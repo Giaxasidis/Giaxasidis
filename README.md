@@ -1,10 +1,14 @@
-# Hi, I'm KaloudasDev
+# Hi, I'm KaloudasDev! 👋
 
-I am a dedicated FiveM Developer specializing in delivering optimized server and client solutions. I also build scalable Discord bots featuring dashboards and modular architecture. With strong proficiency in JavaScript and Lua, I emphasize writing efficient, maintainable code. My work is guided by principles of clean architecture, performance, and future-proof design.
+- Skilled **FiveM Developer**, delivering optimized **server** and **client** solutions.  
+- Building scalable **Discord Bots** with dashboards and modular architecture.  
+- Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
+- Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
 
 ## Experience
 
-I am a self-taught developer with a passion for creating high-quality systems across diverse platforms. My primary focus is on FiveM development and crafting robust Discord bots with modular, maintainable structures.
+I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
+My main expertise lies in **FiveM Development** also creating robust **Discord Bots** with nice modular design.
 
 - Full stack experience primarily using **JavaScript** and **Lua**  
 - Strong emphasis on performance, code clarity, and maintainability  
