@@ -1,14 +1,14 @@
 # Hi there, I'm KaloudasDev! 👋
 
-🎯 Skilled **FiveM Developer**, delivering optimized **server** and **client** solutions.  
-🚀 Building scalable **Discord bots** with dashboards and modular architecture.  
-💻 Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
-🔍 Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
+- 🎯 Skilled **FiveM Developer**, delivering optimized **server** and **client** solutions.  
+- 🚀 Building scalable **Discord bots** with dashboards and modular architecture.  
+- 💻 Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
+- 🔍 Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
 
 ## Experience
 
 I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
-My main expertise lies in **FiveM Development** also creating robust *Discord Bots** with nice modular design.
+My main expertise lies in **FiveM Development** also creating robust **Discord Bots** with nice modular design.
 
 - Full Stack experience, mainly in **JavaScript** and **Lua**
 - Strong focus on **performance**, **code clarity**, and **maintainability**
@@ -25,10 +25,10 @@ Feel free to reach out on any of the following platforms:
 
 Here are some things I’ve been working on lately:
 
-- 🛠️ Custom **FiveM Scripts** tailored for performance and gameplay quality
-- 🤖 Modular **Discord Bots** with dashboards and RESTful backends
-- 🌐 Integration of APIs, **Node.js** services, and frontend interfaces
-- 🚗 Server optimization for large FiveM communities
+- 🛠️ Custom **FiveM Scripts** tailored for performance and gameplay quality.
+- 🤖 Modular **Discord Bots** with dashboards and RESTful backends.
+- 🌐 Integration of APIs, **Node.js** services, and frontend interfaces.
+- 🚗 Server optimization for large FiveM communities.
 
 
 ### GitHub Statistics
