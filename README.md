@@ -16,7 +16,7 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 
 ## Contact
 
-Feel encouraged to contact me via:
+Contact me anytime via these methods:
 
 - 📧 Email: [`kaloudasdev@gmail.com`](mailto:kaloudasdev@gmail.com)  
 - 💬 Discord: [`@KaloudasDev`](https://discord.com/users/1069279857072160921)  
