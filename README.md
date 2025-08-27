@@ -14,7 +14,7 @@ My main expertise lies in **FiveM Development** also creating robust *Discord Bo
 - Strong focus on **performance**, **code clarity**, and **maintainability**
 - Constantly learning and improving — always chasing the most **efficient solutions**
 
-## How to reach me
+## Communicate
 
 Feel free to reach out on any of the following platforms:
 
@@ -31,7 +31,7 @@ Here are some things I’ve been working on lately:
 - 🚗 Server optimization for large FiveM communities
 
 
-## GitHub Statistics
+### GitHub Statistics
 
 <table style="width:100%; border-spacing:0;">
   <tr>
