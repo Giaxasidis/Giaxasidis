@@ -27,10 +27,10 @@ Currently engaged in building advanced tools:
 
 | Project                       | Description                                                                                             |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **velvet-pong-game**          | Minimalist pong game with adjustable difficulty, smooth animations, sound effects, and retro-modern UI. |
-| **velvet-pong-game**          | Minimalist pong game with adjustable difficulty, smooth animations, sound effects, and retro-modern UI. |
+| **velvet-pong-game**          | Minimalist pong game with adjustable difficulty, smooth animations, and sound effects.                  |
+| **velvet-pong-game**          | Minimalist pong game with adjustable difficulty, smooth animations, and sound effects.                  |
 | **fivem-rich-presence**       | Discord integration for FiveM, displaying real-time activity with Discord Rich Presence.                |
-| **fivem-weather-control**     | Weather and time control script for FiveM with an intuitive UI for management.                          |
+| **fivem-weather-control**     | Weather and time control script for FiveM with a nice intuitive UI for management.                      |
 | **discord-tempvoice-bot**     | Automated temporary voice channels with role-based permissions and cleanup for Discord.                 |
 | **fivem-steam-authenticator** | Steam-only authentication system for FiveM, ensuring secure and uninterrupted player access.            |
 
