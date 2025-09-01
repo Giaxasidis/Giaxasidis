@@ -28,7 +28,7 @@ Currently engaged in building advanced tools:
 | Project                       | Description                                                                                 |
 | ----------------------------- | ------------------------------------------------------------------------------------------- |
 | **velvet-pong-game**          | Minimalist pong game with adjustable difficulty, smooth animations and sound effects.|
-| **back-to-school-countdown**  | Interactive countdown timer with a progressive bar for the start of the new school year.    |
+| **back-to-school-timer**  | Interactive countdown timer with a progressive bar for the start of the new school year.    |
 | **fivem-rich-presence**       | Discord integration for FiveM, displaying real-time activity with Discord Rich Presence.    |
 | **fivem-weather-control**     | Weather and time control script for FiveM with intuitive UI for easy management and use.    |
 | **discord-tempvoice-bot**     | Automated temporary voice channels with permissions and automated cleanup for Discord.   |
