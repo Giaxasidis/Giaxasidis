@@ -21,29 +21,35 @@ Contact me anytime via these methods:
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="mailto:kaloudasdev@gmail.com">
+      <a href="mailto:kaloudasdev@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
         <br>
         <sup><b>Email Me</b></sup>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/KaloudasDev">
+      <a href="https://github.com/KaloudasDev" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
         <br>
         <sup><b>Follow</b></sup>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://discordapp.com/users/1069279857072160921">
+      <a href="https://discordapp.com/users/1069279857072160921" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
         <br>
         <sup><b>Chat</b></sup>
       </a>
     </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://ko-fi.com/kaloudas" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluency/48/000000/buy-me-a-coffee.png" alt="Ko-fi" width="40" height="40"/>
+        <br>
+        <sup><b>Support</b></sup>
+      </a>
+    </td>
   </tr>
 </table>
-
 
 ## Projects
 
