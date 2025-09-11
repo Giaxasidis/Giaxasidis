@@ -17,10 +17,7 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 ## Contact
 
 Contact me anytime via these methods:
-<!--
-</div>
-<div align="center">
-<!-- Animated Footer Cards -->
+
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
@@ -31,13 +28,6 @@ Contact me anytime via these methods:
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://linkedin.com/in/">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-        <br>
-        <sup><b>Connect</b></sup>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
       <a href="https://github.com/KaloudasDev">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
         <br>
@@ -45,16 +35,15 @@ Contact me anytime via these methods:
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://stackoverflow.com/users/">
-        <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40"/>
+      <a href="https://discordapp.com/users/1069279857072160921">
+        <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
         <br>
-        <sup><b>Ask Me</b></sup>
+        <sup><b>Chat</b></sup>
       </a>
     </td>
   </tr>
 </table>
 
-</div>
 
 ## Projects
 
