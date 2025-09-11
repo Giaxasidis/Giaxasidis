@@ -76,7 +76,8 @@ Technical overview of contributions and code.
 <table style="width:100%; border-spacing:0; border-collapse:collapse; background:none; margin-top:10px;">
   <tr>
     <td style="padding:0; margin:0; background:none;">
-      <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" style="width:100%; display:block; object-fit:cover; border:none;" />
+      <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=github_dark&margin-w=10&no-frame=true" alt="GitHub Trophies" style="width:100%; display:block; object-fit:cover; border:none;" />
     </td>
   </tr>
 </table>
+
