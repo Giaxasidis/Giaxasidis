@@ -64,7 +64,10 @@ Currently engaged in building advanced tools:
 | **discord-tempvoice-bot**     | Automated temporary voice channels with permissions and automated cleanup for Discord.   |
 | **fivem-steam-authenticator** | Steam-only authentication system for FiveM, ensuring uninterrupted player access on server. |
 
-<!-- GitHub Stats -->
+## Statistics
+
+Technical overview of contributions and code.  
+
 <table style="width:100%; border-spacing:0; border-collapse:collapse;">
   <tr style="vertical-align: top;">
     <td style="width:50%; padding:0;">
