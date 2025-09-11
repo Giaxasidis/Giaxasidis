@@ -24,28 +24,28 @@ Contact me anytime via these methods:
       <a href="mailto:kaloudasdev@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
         <br>
-        <sup><b>Email Me</b></sup>
+        <sup><b>Email</b></sup>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/KaloudasDev" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
         <br>
-        <sup><b>Follow</b></sup>
+        <sup><b>GitHub</b></sup>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://discordapp.com/users/1069279857072160921" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
         <br>
-        <sup><b>Chat</b></sup>
+        <sup><b>Discord</b></sup>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://ko-fi.com/kaloudas" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/48/coffee-to-go.png" alt="Ko-fi" width="40" height="40"/>
         <br>
-        <sup><b>Support</b></sup>
+        <sup><b>Ko-fi</b></sup>
       </a>
     </td>
   </tr>
