@@ -74,5 +74,5 @@ Technical overview of contributions and code.
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basantkr762&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
 </p>
