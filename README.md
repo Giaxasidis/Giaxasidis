@@ -17,7 +17,7 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 ## Contact
 
 Contact me anytime via these methods:
-
+<!--
 </div>
 <div align="center">
 <!-- Animated Footer Cards -->
