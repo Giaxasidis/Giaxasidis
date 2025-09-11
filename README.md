@@ -18,8 +18,43 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 
 Contact me anytime via these methods:
 
-- Discord Account: [`@KaloudasDev`](https://discord.com/users/1069279857072160921)  
-- Email Account: [`kaloudasdev@gmail.com`](mailto:kaloudasdev@gmail.com)  
+</div>
+<div align="center">
+<!-- Animated Footer Cards -->
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="mailto:kaloudasdev@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
+        <br>
+        <sup><b>Email Me</b></sup>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://linkedin.com/in/basant-kumar-6a4909124">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+        <br>
+        <sup><b>Connect</b></sup>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/basantkr762">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+        <br>
+        <sup><b>Follow</b></sup>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://stackoverflow.com/users/24881352">
+        <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40"/>
+        <br>
+        <sup><b>Ask Me</b></sup>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Projects
 
