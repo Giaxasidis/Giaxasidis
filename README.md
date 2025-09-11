@@ -31,7 +31,7 @@ Contact me anytime via these methods:
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://linkedin.com/in/basant-kumar-6a4909124">
+      <a href="https://linkedin.com/in/">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
         <br>
         <sup><b>Connect</b></sup>
