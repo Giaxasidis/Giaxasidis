@@ -64,26 +64,27 @@ Currently engaged in building advanced tools:
 | **discord-tempvoice-bot**     | Automated temporary voice channels with permissions and automated cleanup for Discord.   |
 | **fivem-steam-authenticator** | Steam-only authentication system for FiveM, ensuring uninterrupted player access on server. |
 
-<!-- GitHub Stats Section -->
-<div style="display: flex; gap: 0; width: 100%; background-color: #151515; border: 1px solid #333; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
-
-  <!-- GitHub Stats -->
-  <div style="flex: 1;">
-    <img 
-      src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" 
-      style="width: 100%; height: 200px; object-fit: cover; display: block;" 
-    />
-  </div>
-
-  <!-- Top Languages -->
-  <div style="flex: 1;">
-    <img 
-      src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" 
-      style="width: 100%; height: 200px; object-fit: cover; display: block;" 
-    />
-  </div>
-
-</div>
+<!-- GitHub Stats -->
+<table style="width:100%; border-spacing:0; border-collapse:collapse;">
+  <tr style="vertical-align: top;">
+    <td style="width:50%; padding:0;">
+      <div style="height:200px; background-color:#151515; overflow:hidden;">
+        <img 
+          src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" 
+          style="width:100%; height:100%; display:block; border:none;" 
+        />
+      </div>
+    </td>
+    <td style="width:50%; padding:0;">
+      <div style="height:200px; background-color:#151515; overflow:hidden;">
+        <img 
+          src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" 
+          style="width:100%; height:100%; display:block; border:none;" 
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Trophies -->
 <table style="width:100%; border-spacing:0; border-collapse:collapse; margin-top:10px;">
