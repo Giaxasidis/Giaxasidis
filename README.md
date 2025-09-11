@@ -64,25 +64,36 @@ Currently engaged in building advanced tools:
 | **discord-tempvoice-bot**     | Automated temporary voice channels with permissions and automated cleanup for Discord.   |
 | **fivem-steam-authenticator** | Steam-only authentication system for FiveM, ensuring uninterrupted player access on server. |
 
-## GitHub Statistics
+!-- Wrapper για όλα τα GitHub Stats -->
+<div style="background-color:#151515; border:1px solid #333; border-radius:8px; padding:20px; margin-bottom:20px;">
 
-Technical overview of contributions and code.
+  <h2 style="color:#ccc; margin-top:0;">GitHub Statistics</h2>
+  <p style="color:#888; margin-bottom:20px;">Technical overview of contributions and code.</p>
 
-<table style="width:100%; border-spacing:0; border-collapse:collapse; background:none;">
-  <tr>
-    <td align="left" style="padding:0; margin:0; background:none; width:50%;">
-      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" style="height:200px; width:100%; object-fit:cover; display:block; margin:0; padding:0; border:none;" />
-    </td>
-    <td align="right" style="padding:0; margin:0; background:none; width:50%;">
-      <img src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" style="height:200px; width:100%; object-fit:cover; display:block; margin:0; padding:0; border:none;" />
-    </td>
-  </tr>
-</table>
+  <!-- GitHub Stats and Languages -->
+  <table style="width:100%; border-spacing:0; border-collapse:collapse;">
+    <tr>
+      <td style="padding:0; width:50%;">
+        <img src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"
+             style="width:100%; height:200px; object-fit:contain; display:block; border:none;" />
+      </td>
+      <td style="padding:0; width:50%;">
+        <img src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true"
+             style="width:100%; height:200px; object-fit:contain; display:block; border:none;" />
+      </td>
+    </tr>
+  </table>
 
-<table style="width:100%; border-spacing:0; border-collapse:collapse; background:none; margin-top:10px;">
-  <tr>
-    <td style="padding:0; margin:0; background:none;">
-      <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=discord&margin-w=10&no-frame=true" alt="GitHub Trophies" style="width:100%; display:block; object-fit:cover; border:none;" />
-    </td>
-  </tr>
-</table>
+  <!-- GitHub Trophies (με ίδιο στυλ) -->
+  <table style="width:100%; border-spacing:0; border-collapse:collapse; margin-top:20px;">
+    <tr>
+      <td style="padding:0;">
+        <img src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=discord&margin-w=10&no-frame=true"
+             alt="GitHub Trophies"
+             style="width:100%; height:auto; display:block; border:none;" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
