@@ -38,14 +38,14 @@ Contact me anytime via these methods:
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/basantkr762">
+      <a href="https://github.com/KaloudasDev">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
         <br>
         <sup><b>Follow</b></sup>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://stackoverflow.com/users/24881352">
+      <a href="https://stackoverflow.com/users/">
         <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40"/>
         <br>
         <sup><b>Ask Me</b></sup>
