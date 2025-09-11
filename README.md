@@ -22,7 +22,7 @@ Contact me anytime via these methods:
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="mailto:kaloudasdev@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaloudasdev@gmail.com" target="_blank" rel="noopener noreferrer">
         <br>
         <sup><b>Email</b></sup>
       </a>
