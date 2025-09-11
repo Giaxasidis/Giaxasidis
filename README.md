@@ -85,18 +85,3 @@ Currently engaged in building advanced tools:
     </td>
   </tr>
 </table>
-
-<!-- GitHub Trophies -->
-<table style="width:100%; border-spacing:0; border-collapse:collapse; margin-top:10px;">
-  <tr>
-    <td style="padding:0; margin:0;">
-      <div style="height:auto; overflow:hidden;">
-        <img 
-          src="https://github-profile-trophy.vercel.app/?username=KaloudasDev&theme=discord&margin-w=10&no-frame=true" 
-          alt="GitHub Trophies" 
-          style="width:100%; display:block; border:none;" 
-        />
-      </div>
-    </td>
-  </tr>
-</table>
