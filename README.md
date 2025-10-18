@@ -42,7 +42,7 @@ Contact me anytime via these methods:
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://ko-fi.com/kaloudas" target="_blank" rel="noopener noreferrer">
+      <a href="https://ko-fi.com/kaloudasdev" target="_blank" rel="noopener noreferrer">
         <img src="https://i.imgur.com/2eYcWvy.png" alt="Ko-fi" width="40" height="40"/>
         <br>
         <sup><b>Ko-fi</b></sup>
