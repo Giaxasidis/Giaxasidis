@@ -20,13 +20,13 @@ Contact me anytime via these methods:
 
 <table>
   <tr>
-<td align="center" style="padding: 10px;">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaloudasdev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
-    <br>
-    <sup><b>Email</b></sup>
-  </a>
-</td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaloudasdev@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
+        <br>
+        <sup><b>Email</b></sup>
+      </a>
+    </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/KaloudasDev" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
@@ -48,8 +48,16 @@ Contact me anytime via these methods:
         <sup><b>Ko-fi</b></sup>
       </a>
     </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://leetcode.com/u/KaloudasDev/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/fluency/48/000000/leetcode.png" alt="LeetCode" width="40" height="40"/>
+        <br>
+        <sup><b>LeetCode</b></sup>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ## Projects
 
