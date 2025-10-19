@@ -50,7 +50,7 @@ Contact me anytime via these methods:
     </td>
 <td align="center" style="padding: 10px;">
   <a href="https://leetcode.com/u/KaloudasDev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+    <img src="https://raw.githubusercontent.com/Kanawanagasaki/vsc-leetcode/master/images/logo.png" 
          alt="LeetCode" width="40" height="40" style="display: block; margin: auto;"/>
     <br>
     <sup><b>LeetCode</b></sup>
