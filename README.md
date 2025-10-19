@@ -48,17 +48,16 @@ Contact me anytime via these methods:
         <sup><b>Ko-fi</b></sup>
       </a>
     </td>
-   <td align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
   <a href="https://leetcode.com/u/KaloudasDev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode" width="40" height="40" style="display: block; margin: auto;"/>
     <br>
     <sup><b>LeetCode</b></sup>
   </a>
 </td>
-
   </tr>
 </table>
-
 
 ## Projects
 
