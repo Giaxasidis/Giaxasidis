@@ -2,8 +2,8 @@
 
 - Skilled **FiveM Developer**, delivering optimized **server** and **client** solutions.  
 - Building scalable **Discord Bots** with dashboards and modular architecture.  
-- Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
 - Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
+- Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.  
 
 ## Experience
 
