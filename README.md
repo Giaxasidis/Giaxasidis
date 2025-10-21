@@ -10,9 +10,9 @@
 I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
 My main expertise lies in **FiveM Development** also creating robust **Discord Bots** with nice modular design.
 
-- Full stack experience primarily using **JavaScript** and **Lua**  
-- Strong emphasis on performance, code clarity, and maintainability  
-- Continuously learning and refining skills to deliver efficient and scalable solutions  
+- Extensive full stack development experience primarily utilizing **JavaScript** and **Lua** programming languages.
+- Strong professional emphasis on application performance optimization and code clarity and maintainability standards.
+- Continuously learning new technologies and actively refining development skills to deliver efficient and scalable solutions.
 
 ## Contact
 
