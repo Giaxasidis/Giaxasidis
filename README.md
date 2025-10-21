@@ -18,46 +18,9 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 
 Contact me anytime via these methods:
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaloudasdev@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
-        <br>
-        <sup><b>Email</b></sup>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/KaloudasDev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-        <br>
-        <sup><b>GitHub</b></sup>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://discordapp.com/users/1069279857072160921" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
-        <br>
-        <sup><b>Discord</b></sup>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://ko-fi.com/kaloudasdev" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.imgur.com/2eYcWvy.png" alt="Ko-fi" width="40" height="40"/>
-        <br>
-        <sup><b>Ko-fi</b></sup>
-      </a>
-    </td>
-<td align="center" style="padding: 10px;">
-  <a href="https://leetcode.com/u/KaloudasDev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/Kanawanagasaki/vsc-leetcode/master/images/logo.png" 
-         alt="LeetCode" width="40" height="40" style="display: block; margin: auto;"/>
-    <br>
-    <sup><b>LeetCode</b></sup>
-  </a>
-</td>
-  </tr>
-</table>
+- Portfolio: [Explore My Portfolio](https://kaloudasdev.github.io/kaloudasdev-portfolio/)
+- LinkTree: [Check My LinkTree](https://kaloudasdev.github.io/kaloudasdev-links/)
+- LeetCode: [View My Profile](https://leetcode.com/u/KaloudasDev/)
 
 ## Projects
 
