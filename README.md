@@ -18,14 +18,14 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 
 Currently engaged in building advanced tools:
 
-| Project                       | Description                                                                                 |
-| ----------------------------- | ------------------------------------------------------------------------------------------- |
-| **velvet-pong-game**          | Minimalist pong game with adjustable difficulty, smooth animations and sound effects.|
-| **back-to-school-timer**  | Interactive countdown timer with a progressive bar for the start of the new school year.    |
-| **fivem-rich-presence**       | Discord integration for FiveM, displaying real-time activity with Discord Rich Presence.    |
-| **fivem-weather-control**     | Weather and time control script for FiveM with intuitive UI for easy management and use.    |
-| **discord-tempvoice-bot**     | Automated temporary voice channels with permissions and automated cleanup for Discord.   |
-| **fivem-steam-authenticator** | Steam-only authentication system for FiveM, ensuring uninterrupted player access on server. |
+| Project                       | Description                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| **kaloudasdev-links**         | Professional link hub with dark theme and responsive design.                |
+| **active-developer-badge**    | Node.js template for Discord Active Developer Badge acquisition.            |
+| **scientific-calculator**     | Advanced calculator with 200+ functions and TypeScript implementation.      |
+| **task-management**           | Enterprise system with role-based access and real-time analytics.           |
+| **kaloudas-portfolio**        | Personal portfolio showcasing web development skills and projects.          |
+| **velvet-pong-game**          | Minimalist pong game with adjustable difficulty and smooth animations.      |
 
 ## Statistics
 
