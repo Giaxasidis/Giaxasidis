@@ -18,14 +18,14 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 
 Currently engaged in building advanced tools:
 
-| Project                       | Description                                                                 |
-| ----------------------------- | --------------------------------------------------------------------------- |
-| **kaloudasdev-links**         | Professional link hub with dark theme and responsive design.                |
-| **active-developer-badge**    | Node.js template for Discord Active Developer Badge acquisition.            |
-| **scientific-calculator**     | Advanced calculator with 200+ functions and TypeScript implementation.      |
-| **task-management**           | Enterprise system with role-based access and real-time analytics.           |
-| **kaloudas-portfolio**        | Personal portfolio showcasing web development skills and projects.          |
-| **velvet-pong-game**          | Minimalist pong game with adjustable difficulty and smooth animations.      |
+| Project                       | Description                                                             |
+| ----------------------------- | ----------------------------------------------------------------------- |
+| **kaloudasdev-links**         | Professional developer link hub featuring modern responsive theme design. |
+| **active-developer-badge**    | Complete Node.js guide and template for Discord developer badge acquisition. |
+| **scientific-calculator**     | Advanced scientific calculator with two hundred plus mathematical functions. |
+| **task-management**           | Enterprise task management system featuring secure role based access control. |
+| **kaloudas-portfolio**        | Personal portfolio website showcasing my web development skills and work. |
+| **velvet-pong-game**          | Minimalist pong game featuring adjustable difficulty and smooth animations. |
 
 ## Statistics
 
