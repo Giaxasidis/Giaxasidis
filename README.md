@@ -20,11 +20,11 @@ Currently engaged in building advanced tools:
 
 | Project                       | Description                                                             |
 | ----------------------------- | ----------------------------------------------------------------------- |
+| **kaloudas-portfolio**        | Personal portfolio website showcasing my web development skills and work. |
 | **kaloudasdev-links**         | Professional developer link hub featuring modern responsive theme design. |
 | **active-developer-badge**    | Complete Node.js guide and template for Discord developer badge acquisition. |
 | **scientific-calculator**     | Advanced scientific calculator with two hundred plus mathematical functions. |
-| **task-management**           | Enterprise task management system featuring secure role based access control. |
-| **kaloudas-portfolio**        | Personal portfolio website showcasing my web development skills and work. |
+| **task-management**           | Enterprise task management menu featuring secure role based access control. |
 | **velvet-pong-game**          | Minimalist pong game featuring adjustable difficulty and smooth animations. |
 
 ## Statistics
