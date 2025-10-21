@@ -14,14 +14,6 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 - Continuously learning new technologies and refining professional development skills efficiently.
 - Strong emphasis on application performance optimization and code maintainability standards.
 
-## Contact
-
-Contact me anytime via these methods:
-
-- Portfolio: [Explore My Portfolio](https://kaloudasdev.github.io/kaloudasdev-portfolio/)
-- LinkTree: [Check My LinkTree](https://kaloudasdev.github.io/kaloudasdev-links/)
-- LeetCode: [View My Profile](https://leetcode.com/u/KaloudasDev/)
-
 ## Projects
 
 Currently engaged in building advanced tools:
