@@ -20,7 +20,7 @@ Currently engaged in building advanced tools:
 
 | Project                       | Description                                                             |
 | ----------------------------- | ----------------------------------------------------------------------- |
-| **kaloudasdev-portfolio**        | Personal portfolio website showcasing my web development skills and work. |
+| **kaloudasdev-website**        | Personal portfolio website showcasing my web development skills and work. |
 | **kaloudasdev-links**         | Professional developer link hub featuring modern responsive theme design. |
 | **active-dev-badge**          | Complete Node.js guide and template for Discord developer badge collection. |
 | **task-management**           | Enterprise task management menu featuring secure role based access control. |
