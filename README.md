@@ -36,7 +36,7 @@ Technical overview of contributions and code.
     <td style="width:50%; padding:0;">
       <div style="height:200px; background-color:#151515; overflow:hidden;">
         <img 
-          src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" 
+          src="https://github-readme-stats-five-rouge-22.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" 
           style="width:100%; height:100%; display:block; border:none;" 
         />
       </div>
@@ -44,7 +44,7 @@ Technical overview of contributions and code.
     <td style="width:50%; padding:0;">
       <div style="height:200px; background-color:#151515; overflow:hidden;">
         <img 
-          src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" 
+          src="https://github-readme-stats-five-rouge-22.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" 
           style="width:100%; height:100%; display:block; border:none;" 
         />
       </div>
