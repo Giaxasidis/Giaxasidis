@@ -24,8 +24,8 @@ Currently engaged in building advanced tools:
 | **pontus-map** | Map of Pontus with Greek cities. Built with React, Leaflet & Framer Motion. | JavaScript |
 | **kaloudasdev-links** | Developer link hub with dark theme and responsive design for all devices. | CSS |
 | **scientific-calculator** | Calculator with 200+ functions, statistical analysis, TypeScript implementation. | TypeScript |
-| **wallpaper-enforcer** | Windows tool preventing unauthorized wallpaper changes via registry protection. | C# |
-| **next-hardened** | Next.js starter with security, CSP headers, zero vulnerabilities. TypeScript, Tailwind. | TypeScript |
+| **wallpaper-enforcer** | Windows tool preventing unauthorized wallpaper changes via registry protection. | C Sharp |
+| **next-hardened-base** | Next.js starter with security, CSP headers, zero vulnerabilities. TypeScript, Tailwind. | TypeScript |
 
 ## Statistics
 
