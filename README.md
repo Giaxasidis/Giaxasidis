@@ -25,7 +25,7 @@ Currently engaged in building advanced tools:
 | **kaloudasdev-links** | Developer link hub with dark theme and responsive design for all devices. | JavaScript |
 | **scientific-calculator** | Calculator with 200+ functions, statistical analysis, TypeScript implementation. | TypeScript |
 | **next-hardened-base** | Next.js starter with security, CSP headers, zero vulnerabilities. TypeScript, Tailwind. | TypeScript |
-| **pontus-historical-map** | Map of Pontus with Greek cities. Built with React, Leaflet & Framer Motion. | JavaScript |
+| **pontus-historical-map** | Map of Pontus with ancient Greek cities. Built with React, Leaflet & Framer Motion. | JavaScript |
 
 ## Statistics
 
