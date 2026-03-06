@@ -22,7 +22,7 @@ Currently engaged in building advanced tools:
 | Project | Description | Languages / Tech |
 |--------|-------------|-------------------|
 | **wallpaper-enforcer** | Windows tool preventing unauthorized wallpaper changes via registry protect. | C Sharp |
-| **kaloudasdev-links** | Developer link hub with dark theme and responsive design for all devices. | JavaScript |
+| **kaloudasdev-links** | Modern developer link hub with dark theme and responsive design for all devices.| JavaScript |
 | **scientific-calculator** | Calculator with 200+ functions, statistical analysis, TypeScript implementation. | TypeScript |
 | **next-hardened-base** | Next.js starter with security, CSP headers, zero vulnerabilities. TypeScript, Tailwind. | TypeScript |
 | **pontus-historical-map** | Map of Pontus with ancient Greek cities. Built with React, Leaflet & Framer Motion. | JavaScript |
