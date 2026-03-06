@@ -15,6 +15,18 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 - Strong emphasis on application performance optimization and code maintainability standards.
 - Dedicated to clean, well-documented code for long-term stability and easy collaboration.
 
+## Projects
+
+Currently engaged in building advanced tools:
+
+| Project | Description | Languages / Tech |
+|--------|-------------|-------------------|
+| **pontus-historical-map** | Interactive historical map of Pontus featuring 7 significant cities of Greek presence. Built with React, Leaflet & Framer Motion. Clean and responsive. | JavaScript |
+| **next-hardened** | Production-ready Next.js starter with enterprise security hardening, CSP headers, and zero vulnerabilities. TypeScript, Tailwind, optimized builds. | TypeScript |
+| **kaloudasdev-links** | Professional developer portfolio link hub featuring modern dark theme design and responsive layout optimized for all devices and browsers. | CSS |
+| **wallpaper-enforcer** | Windows tool that effectively prevents unauthorized desktop wallpaper changes with reliable registry protection and real-time monitoring. | C# |
+| **scientific-calculator** | An advanced scientific calculator with 200+ mathematical functions, statistical analysis, programming operations, and TypeScript implementation. | TypeScript |
+
 ## Statistics
 
 Technical overview of contributions and code.
