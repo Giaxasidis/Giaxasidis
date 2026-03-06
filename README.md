@@ -19,7 +19,7 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 
 Currently engaged in building advanced tools:
 
-| Project | Description | Languages |
+| Project | Description | Language |
 |--------|-------------|-------------------|
 | **wallpaper-enforcer** | Windows tool preventing unauthorized wallpaper changes via registry protect. | C Sharp |
 | **scientific-calculator** | Calculator with 200+ functions, statistical analysis, TypeScript implementation. | TypeScript |
