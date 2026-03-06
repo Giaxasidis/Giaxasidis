@@ -14,19 +14,6 @@ My main expertise lies in **FiveM Development** also creating robust **Discord B
 - Continuously learning new technologies and refining professional development skills efficiently.
 - Strong emphasis on application performance optimization and code maintainability standards.
 
-## Projects
-
-Currently engaged in building advanced tools:
-
-| Project                       | Description                                                             |
-| ----------------------------- | ----------------------------------------------------------------------- |
-| **portfolio-website**        | Personal portfolio website showcasing my web development skills and work. |
-| **kaloudasdev-links**         | Professional developer link hub featuring modern responsive theme design. |
-| **active-dev-badge**          | Complete Node.js guide and template for Discord developer badge collection. |
-| **task-management**           | Enterprise task management menu featuring secure role based access control. |
-| **scientific-calculator**     | Advanced scientific calculator with two hundred plus mathematical functions. |
-| **velvet-pong-game**          | Minimalist pong game featuring adjustable difficulty and smooth animations. |
-
 ## Statistics
 
 Technical overview of contributions and code.  
