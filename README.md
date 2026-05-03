@@ -1,53 +1,38 @@
-## Hi, I'm KaloudasDev! 👋
+## Hi, I'm KaloudasDev!
 
-- Building scalable **Discord Bots** with custom dashboards and modular architecture.
-- Skilled **FiveM Developer**, delivering optimized **server** and **client** solutions.
-- Dedicated to **clean architecture**, **performance**, and **future-ready** practices.
-- Proficient in **JavaScript** and **Lua**, focused on efficiency and maintainable code.
+Professional Minecraft plugin developer specializing in anti-cheat systems, command frameworks, and developer tooling. Building production-grade solutions for the Spigot/Paper ecosystem.
 
-## Experience
+### Technical Expertise
 
-I'm a passionate, self-taught developer focused on delivering high-quality systems across multiple platforms.  
-My main expertise lies in **FiveM Development** also creating robust **Discord Bots** with nice modular design.
+- **Plugin Development** - Advanced plugin development with focus on security systems and performance optimization.
+- **Java Architecture** - Clean code practices, annotation-based frameworks, and persistent storage solutions
+- **API Design** - Developer-friendly APIs with comprehensive documentation, examples, and implementation guides.
+- **Performance Optimization** - Efficient algorithms, thread-safe operations, and minimal resource footprint
 
-- Professional backend development extensive experience using **JavaScript** and **Lua** programming.
-- Continuously learning new technologies and refining professional development skills efficiently.
-- Strong emphasis on application performance optimization and code maintainability standards.
-- Dedicated to clean, well-documented code for long-term stability and easy collaboration.
+### Core Competencies
 
-## Projects
+| Area | Technologies |
+|------|--------------|
+| Plugin Development | Spigot API, Paper API, Bukkit, Maven |
+| Programming Languages | Java 17+, TypeScript, JavaScript, Lua |
+| Framework Design | Annotation processors, command frameworks, cooldown systems |
+| DevOps | Git, GitHub Actions, Maven Central deployment |
 
-Currently engaged in building advanced tools:
+### Featured Projects
 
-| Project | Description | Language |
-|--------|-------------|-------------------|
-| **wallpaper-enforcer** | Windows tool preventing unauthorized wallpaper changes via registry protect. | C Sharp |
-| **scientific-calculator** | Calculator with 200+ functions, statistical analysis, TypeScript implementation. | TypeScript |
-| **kaloudasdev-links** | Modern developer link hub with dark theme and responsive design for all devices.| JavaScript |
-| **next-hardened-base** | Next.js starter with security, CSP headers, zero vulnerabilities. TypeScript, Tailwind. | TypeScript |
-| **pontus-historical-map** | Map of Pontus with ancient Greek cities. Built with React, Leaflet & Framer Motion. | JavaScript |
+| Project | Description | Technology |
+|---------|-------------|------------|
+| **AntiCheat System** | Comprehensive anti-cheat system with 78+ detection checks, ban system | Java, Spigot |
+| **Tab Completion** | Production-grade tab completion reference implementation | Java, Spigot |
+| **Cooldown System** | Lightweight cooldown library with annotation and programmatic support | Java, Spigot |
+| **Scientific Calculator** | Advanced calculator with 200+ functions and statistical analysis | TypeScript |
+| **Next Hardened** | Security-first Next.js starter with CSP headers | TypeScript, Next.js |
 
-## Statistics
+### GitHub Statistics
 
-Technical overview of contributions and code.
-
-<table style="width:100%; border-spacing:0; border-collapse:collapse;">
-  <tr style="vertical-align: top;">
-    <td style="width:50%; padding:0;">
-      <div style="height:200px; background-color:#151515; overflow:hidden;">
-        <img 
-          src="https://github-readme-stats-five-rouge-22.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" 
-          style="width:100%; height:100%; display:block; border:none;" 
-        />
-      </div>
-    </td>
-    <td style="width:50%; padding:0;">
-      <div style="height:200px; background-color:#151515; overflow:hidden;">
-        <img 
-          src="https://github-readme-stats-five-rouge-22.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" 
-          style="width:100%; height:100%; display:block; border:none;" 
-        />
-      </div>
-    </td>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-five-rouge-22.vercel.app/api/?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats-five-rouge-22.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" /></td>
   </tr>
 </table>
