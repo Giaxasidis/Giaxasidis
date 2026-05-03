@@ -11,22 +11,26 @@ Professional back-end developer specializing in discord bots, web applications, 
 
 ### Core Competencies
 
-| Area | Technologies |
-|------|--------------|
-| Plugin Development | Spigot API, Paper API, Bukkit, Maven |
-| Programming Languages | Java 17+, TypeScript, JavaScript, Lua |
-| Framework Design | Annotation processors, command frameworks, cooldown systems |
-| DevOps | Git, GitHub Actions, Maven Central deployment |
+| Area | Technologies | Focus |
+|------|--------------|-------|
+| Discord Bot Development | discord.js, REST APIs, WebSocket | Modular Architecture, Scalability |
+| Web Development | Next.js, TypeScript, Tailwind CSS | Performance, Security, Responsive Design |
+| Plugin Development | Spigot API, Paper API, Bukkit | Anti-Cheat, Performance Optimization |
+| Programming Languages | Java 17+, TypeScript, JavaScript, Lua | Clean Code, Maintainability |
+| Framework Design | Annotation Processors, Command Frameworks | Developer Experience, Reusability |
+| DevOps & Tooling | Git, GitHub Actions, Maven Central | CI/CD, Automation, Deployment |
+| Database Management | MongoDB, PostgreSQL, Redis, SQLite | Data Integrity, Query Optimization |
 
 ### Featured Projects
 
 | Project | Description | Technology |
 |---------|-------------|------------|
-| **AntiCheat System** | Comprehensive anti-cheat system with 78+ detection checks, ban system | Java, Spigot |
-| **Tab Completion** | Production-grade tab completion reference implementation | Java, Spigot |
-| **Cooldown System** | Lightweight cooldown library with annotation and programmatic support | Java, Spigot |
-| **Scientific Calculator** | Advanced calculator with 200+ functions and statistical analysis | TypeScript |
-| **Next Hardened** | Security-first Next.js starter with CSP headers | TypeScript, Next.js |
+| AntiCheat System | Comprehensive anti-cheat with 78+ detection checks, ban system | Java, Spigot |
+| Tab Completion Framework | Production-grade tab completion reference implementation | Java, Spigot |
+| Cooldown System | Lightweight cooldown library with annotation support | Java, Spigot |
+| Scientific Calculator | Advanced calculator with 200+ functions | TypeScript |
+| Next Hardened Base | Security-first Next.js starter with CSP headers | TypeScript, Next.js |
+| Discord Bot Architecture | Modular bot framework with custom dashboards | JavaScript, Discord.js |
 
 ### GitHub Statistics
 
