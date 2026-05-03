@@ -1,6 +1,6 @@
 ## Hi, I'm KaloudasDev!
 
-Professional Minecraft plugin developer specializing in anti-cheat systems, command frameworks, and developer tooling. Building production-grade solutions for the Spigot/Paper ecosystem.
+Professional back-end eveloper specializing in discord bots, web applications, and fivem scripts. Building scalable systems with clean architecture and performance optimization. Currently expanding expertise into Minecraft plugin development for the Spigot/Paper ecosystem.
 
 ### Technical Expertise
 
