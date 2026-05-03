@@ -26,11 +26,11 @@ Professional back-end developer specializing in discord bots, web applications, 
 | Project | Description | Technology |
 |---------|-------------|------------|
 | AntiCheat System | Comprehensive anti-cheat with 78+ detection checks, ban system | Java, Spigot |
-| Tab Completion Framework | Production-grade tab completion reference implementation | Java, Spigot |
 | Cooldown System | Lightweight cooldown library with annotation support | Java, Spigot |
 | Scientific Calculator | Advanced calculator with 200+ functions | TypeScript |
 | Next Hardened Base | Security-first Next.js starter with CSP headers | TypeScript, Next.js |
 | Discord Bot Architecture | Modular bot framework with custom dashboards | JavaScript, Discord.js |
+| Tab Completion Framework | Production-grade tab completion reference implementation | Java, Spigot |
 
 ### GitHub Statistics
 
