@@ -1,6 +1,6 @@
 ## Hi, I'm KaloudasDev!
 
-Professional back-end eveloper specializing in discord bots, web applications, and fivem scripts. Building scalable systems with clean architecture and performance optimization. Currently expanding expertise into Minecraft plugin development for the Spigot/Paper ecosystem.
+Professional back-end developer specializing in discord bots, web applications, and fivem scripts. Building scalable systems with clean architecture and performance optimization. Expanding expertise into Minecraft plugin development for the Spigot/Paper ecosystem.
 
 ### Technical Expertise
 
