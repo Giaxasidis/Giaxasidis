@@ -4,10 +4,10 @@ Professional back-end developer specializing in discord bots, web applications, 
 
 ### Technical Expertise
 
-- **Plugin Development** - Advanced plugin development with focus on security systems and performance optimization.
 - **Java Architecture** - Clean code practices, annotation-based frameworks, and persistent storage solutions
-- **API Design** - Developer-friendly APIs with comprehensive documentation, examples, and implementation guides.
 - **Performance Optimization** - Efficient algorithms, thread-safe operations, and minimal resource footprint
+- **API Design** - Developer-friendly APIs with comprehensive documentation, examples, and implementation guides.
+- **Plugin Development** - Advanced plugin development with focus on security systems and performance optimization.
 
 ### Core Competencies
 
