@@ -4,18 +4,18 @@ Professional back-end developer specializing in discord bots, web applications, 
 
 ### Technical Expertise
 
-- **Java Architecture** - Clean code practices, annotation-based frameworks, and persistent storage solutions.
-- **Performance Optimization** - Efficient algorithms, thread-safe operations, and minimal resource footprint.
-- **API Development** - Developer-friendly APIs with comprehensive documentation, examples, and implementation guides.
+- **Performance Optimization** - Efficient algorithms, thread-safe operations and minimal resource footprint.
+- **Code Architecture** - Clean code practices, annotation-based frameworks and persistent storage solutions.
+- **API Development** - Developer-friendly APIs with comprehensive documentation and implementation guides.
 
 ### Core Competencies
 
 | Area | Technologies | Focus |
 |------|--------------|-------|
-| Discord Bot Development | discord.js, REST APIs, WebSocket | Modular Architecture, Scalability |
 | Web Development | Next.js, TypeScript, Tailwind CSS | Performance, Security, Responsive Design |
 | Plugin Development | Spigot API, Paper API, Bukkit | Anti-Cheat, Performance Optimization |
-| Programming Languages | Java 17+, TypeScript, JavaScript, Lua | Clean Code, Maintainability |
+| Discord Bot Development | discord.js, REST APIs, WebSocket | Modular Architecture, Scalability |
+| Programming Languages | Java, TypeScript, JavaScript, Lua | Clean Code, Maintainability |
 
 ### GitHub Statistics
 
