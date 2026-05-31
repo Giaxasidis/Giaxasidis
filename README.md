@@ -17,20 +17,6 @@ Professional back-end developer specializing in discord bots, web applications, 
 | Web Development | Next.js, TypeScript, Tailwind CSS | Performance, Security, Responsive Design |
 | Plugin Development | Spigot API, Paper API, Bukkit | Anti-Cheat, Performance Optimization |
 | Programming Languages | Java 17+, TypeScript, JavaScript, Lua | Clean Code, Maintainability |
-| Framework Design | Annotation Processors, Command Frameworks | Developer Experience, Reusability |
-| DevOps & Tooling | Git, GitHub Actions, Maven Central | CI/CD, Automation, Deployment |
-| Database Management | MongoDB, PostgreSQL, Redis, SQLite | Data Integrity, Query Optimization |
-
-### Featured Projects
-
-| Project | Description | Technology |
-|---------|-------------|------------|
-| AntiCheat System | Comprehensive anti-cheat with 78+ detection checks, ban system | Java, Spigot |
-| Cooldown System | Lightweight cooldown library with annotation support | Java, Spigot |
-| Scientific Calculator | Advanced calculator with 200+ functions | TypeScript |
-| Next Hardened Base | Security-first Next.js starter with CSP headers | TypeScript, Next.js |
-| Discord Bot Architecture | Modular bot framework with custom dashboards | JavaScript, Discord.js |
-| Tab Completion Framework | Production-grade tab completion reference implementation | Java, Spigot |
 
 ### GitHub Statistics
 
