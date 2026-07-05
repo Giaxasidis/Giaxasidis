@@ -4,7 +4,7 @@ I'm a software engineer with a strong focus on building robust, scalable systems
 
 ### What I Bring to the Table
 
-- **System Architecture** – Writing maintainable, testable code with emphasis on modular design, security, and long-term scalability.
+- **System Architecture** – Writing maintainable, testable code with emphasis on design, security, and long-term scalability.
 - **Developer Experience** – Building intuitive APIs and SDKs with clear documentation and seamless integration paths.
 
 ### Core Technologies
