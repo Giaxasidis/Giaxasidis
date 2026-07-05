@@ -1,21 +1,20 @@
-## Hi, I'm KaloudasDev!
+## Hi, I'm Marios
 
-Professional back-end developer specializing in discord bots, web applications, and fivem scripts. Building scalable systems with clean architecture and performance optimization. Expanding expertise into minecraft plugin development for the Spigot/Paper ecosystem.
+I'm a software engineer with a strong focus on building robust, scalable systems across multiple platforms. I specialize in **JavaScript, TypeScript, and Java**, designing clean architectures and performant applications for web, gaming, and automation ecosystems.
 
-### Technical Expertise
+### What I Bring to the Table
 
-- **Performance Optimization** - Efficient algorithms, thread-safe operations and minimal resource footprint.
-- **Code Architecture** - Clean code practices, annotation-based frameworks and persistent storage solutions.
-- **API Development** - Developer-friendly APIs with comprehensive documentation and implementation guides.
+- **System Architecture** – Writing maintainable, testable code with emphasis on modular design, security, and long-term scalability.
+- **Developer Experience** – Building intuitive APIs and SDKs with clear documentation and seamless integration paths.
 
-### Core Competencies
+### Core Technologies
 
 | Area | Technologies | Focus |
 |------|--------------|-------|
-| Web Development | Next.js, TypeScript, Tailwind CSS | Performance, Security, Responsive Design |
-| Plugin Development | Spigot API, Paper API, Bukkit | Anti-Cheat, Performance Optimization |
-| Discord Bot Development | discord.js, REST APIs, WebSocket | Modular Architecture, Scalability |
-| Programming Languages | Java, TypeScript, JavaScript, Lua | Clean Code, Maintainability |
+| **Discord Bots** | discord.js, REST APIs, WebSocket | Event-driven architectures, modular commands |
+| **FiveM Scripting** | Lua, HTML, Javascript | Server-side logic, resource optimization |
+| **Minecraft Plugins** | Spigot API, Paper API, Bukkit | Anti-cheat systems, performance tuning |
+| **Web Applications** | Next.js, TypeScript, Tailwind CSS | Performance, Responsive UI, Security |
 
 ### GitHub Statistics
 
