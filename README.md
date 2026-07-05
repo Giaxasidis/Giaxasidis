@@ -11,9 +11,8 @@ I'm a software engineer with a strong focus on building robust, scalable systems
 
 | Area | Technologies | Focus |
 |------|--------------|-------|
-| **Discord Bots** | discord.js, REST APIs, WebSocket | Event-driven architectures, modular commands |
+| **Discord Bots** | discord.js, Javascript | Event-driven architectures, modular commands |
 | **FiveM Scripting** | Lua, HTML, Javascript | Server-side logic, resource optimization |
-| **Minecraft Plugins** | Spigot API, Paper API, Bukkit | Anti-cheat systems, performance tuning |
 | **Web Applications** | Next.js, TypeScript, Tailwind CSS | Performance, Responsive UI, Security |
 
 ### GitHub Statistics
