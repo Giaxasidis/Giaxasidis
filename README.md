@@ -1,4 +1,4 @@
-## Hi, I'm Marios! <img src="wave.gif" width="30px" style="display: inline-block; vertical-align: baseline; position: relative; top: 4px;" />
+## Hi, I'm Marios!
 
 I'm a software engineer with a strong focus on building robust, scalable systems across multiple platforms. I specialize in **JavaScript, TypeScript, and Java**, designing clean architectures and performant applications for web, gaming, and automation ecosystems.
 
