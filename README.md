@@ -19,7 +19,7 @@ I'm a software engineer with a strong focus on building robust, scalable systems
 
 <table>
   <tr>
-    <td><img src="https://github-statistics-liart.vercel.app/api?username=KaloudasDev&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" /></td>
-    <td><img src="https://github-statistics-liart.vercel.app/api/top-langs/?username=KaloudasDev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" /></td>
+    <td><img src="https://github-statistics-liart.vercel.app/api?username=Giaxasidis&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" /></td>
+    <td><img src="https://github-statistics-liart.vercel.app/api/top-langs/?username=Giaxasidis&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" /></td>
   </tr>
 </table>
