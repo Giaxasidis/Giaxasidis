@@ -1,6 +1,6 @@
 ## Hi, I'm Marios!
 
-I'm a 17-year-old self-taught developer with a strong focus on building robust, scalable systems. I specialize in JavaScript, TypeScript, and Java, designing clean architectures and performant applications for web, gaming, and automation ecosystems with precision and purpose.
+I'm a 17-year-old self-taught developer with a strong focus on building robust, scalable systems. I specialize in JavaScript, designing clean, modular architectures and performant applications for web, gaming, and automation ecosystems with precision and purpose.
 
 ### What I Bring to the Table
 
